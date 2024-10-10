@@ -1,0 +1,116 @@
+.head{
+    width: 85vw;
+    height: 15vh;
+    position: absolute;
+    top: 0vh;
+}
+.logo{
+    top: 20px;
+    position: absolute;
+}
+.right{
+    width: 10vw;
+    height: 125vh;
+    position: absolute;
+    top: 0vh;
+    right: 10px;
+    background-color: black;
+}
+.search{
+    width: 5vh;
+    top: 20px;
+    position: absolute;
+    right: 100px;
+}
+.car{
+    width: 6vh;
+    top: 20px;
+    position: absolute;
+    right: 10px;
+}
+.lol{
+    top: 20px;
+    color: black;
+    position: absolute;
+    right: 329px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large;
+}
+.lo{
+    top: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    position: absolute;
+    right: 160px;
+}
+.up{
+    
+    width: 5vw;
+    position: absolute;
+    right: 35px;
+    top: 5px;
+}
+.cantidad{
+    color: white;
+    position: absolute;
+    right: 20px;
+    top: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 290;
+}
+.num{
+    color: white;
+    position: absolute;
+    right: 50px;
+    top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 290;
+}
+.num5{
+    color: white;
+    position: absolute;
+    right: 50px;
+    top: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 290;
+}
+.num6{
+    color: white;
+    position: absolute;
+    right: 50px;
+    top: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 290;
+}
+.down{
+    width: 5vw;
+    position: absolute;
+    right: 35px;
+    top: 750px;
+}
+.panel{
+    border: solid black;
+    width: 85vw;
+    height: 108vh;
+    position: absolute;
+    top: 100px;
+}
+.metro{
+    width: 115vh;
+    border: solid black;
+    position: absolute;
+    left: 195px;
+    top: 100px;
+}
+.end{
+    border: solid black;
+    width: 85vw;
+    height: 26vh;
+    position: absolute;
+    top: 586px;
+}
