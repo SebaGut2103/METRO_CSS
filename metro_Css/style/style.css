@@ -1,0 +1,39 @@
+.lin{
+    bottom: 90svh;
+    margin: 10px;
+
+}
+section{
+    border: solid black;
+    margin: auto;
+    bottom: 90svh;
+    height: 900px;
+}
+
+.menu{
+    bottom: 90svh;
+    text-align:end;
+}
+nav{
+    float: inline-end;
+    text-align:center;
+}
+.e{
+    margin: 10px;
+}
+.a{
+    color: black;
+    margin: 10px;
+    font-size: x-large;
+    font-weight: 100%;
+}
+.card{
+
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.u{
+    bottom: 90svh;
+}
